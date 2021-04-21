@@ -3,4 +3,3 @@ A Stacking Ensemble implementation using scikit-learn, Keras, XGBoost and LightG
 
 ### Architecture:
 <img src="./stacking.png">
-.
